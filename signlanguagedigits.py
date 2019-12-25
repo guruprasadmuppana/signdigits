@@ -332,4 +332,5 @@ img1 = scaler.transform(img1)
 number = model.predict(img1)
 print("Orginal 6 and actual", number)
 
+# Added a new comments at the end using the GitHub editor
 
